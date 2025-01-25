@@ -16,7 +16,7 @@ A página apresenta **cards interativos** que exibem informações sobre o jogo 
 - Mudança dinâmica de informações ao deslizar os cards.
 - Design simples e interativo para melhor experiência do usuário.
 
-##Aprendizados
+## Aprendizados
 Durante o desenvolvimento deste projeto, foram trabalhados conceitos como:
 
 - Estruturação de páginas com HTML.
