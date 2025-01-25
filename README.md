@@ -16,5 +16,12 @@ A página apresenta **cards interativos** que exibem informações sobre o jogo 
 - Mudança dinâmica de informações ao deslizar os cards.
 - Design simples e interativo para melhor experiência do usuário.
 
+##Aprendizados
+Durante o desenvolvimento deste projeto, foram trabalhados conceitos como:
+
+- Estruturação de páginas com HTML.
+- Estilização com CSS, incluindo responsividade.
+- Manipulação do DOM e eventos com JavaScript.
+
 ## Demonstração
 https://brawlhallacards.web.app
